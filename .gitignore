@@ -4,5 +4,3 @@ SPEC.md
 *.log
 node_modules/
 __pycache__/
-dist/
-tmp/
