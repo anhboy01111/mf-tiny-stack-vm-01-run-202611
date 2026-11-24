@@ -1,0 +1,8 @@
+SPEC.md
+.specify/
+*.tar.gz
+*.log
+node_modules/
+__pycache__/
+dist/
+tmp/
